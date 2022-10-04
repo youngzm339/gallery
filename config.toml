@@ -1,0 +1,31 @@
+# Site settings
+baseurl = "https://go.youngzm.com/"
+DefaultContentLanguage = "en-us"
+languageCode = "en-us"
+title = "YoungZM's Gallery"
+theme = "photo-grid"
+copyright = "Copyright 2022@YoungZM"
+googleAnalytics = "UA-170465513-1"
+
+[params]
+    # Meta
+    no_exif = false
+    title = "YoungZM's Gallery"
+    subtitle = "The artistic dream of a disillusioned idealist"
+    author = "YoungZM"
+    description = "The artistic dream of a disillusioned idealist"
+    keywords = "Hugo, Hugo theme, grid theme, gallery"
+
+    font_face_link = "https://fonts.googleapis.com/css?family=Lato:300,400,700"
+
+    # Body background and  text color
+    bodybgcolor = "#000000"
+    bodytextcolor = "#FFFFFF"
+
+    parent_link = "/"
+    parent_link_text = "↩️Home"
+
+    # Footer text
+    copyright_since_year = 2022
+    copyright_text = "All original images"
+    footertext = "Powered by [YoungZM](https://youngzm.com),[GitHub Pages](https://github.com/youngzm339/hugo-gallery-deploy),and [YOU](#)"
