@@ -28,4 +28,4 @@ googleAnalytics = "UA-170465513-1"
     # Footer text
     copyright_since_year = 2022
     copyright_text = "All original images"
-    footertext = "Powered by [YoungZM](https://youngzm.com),[GitHub Pages](https://github.com/youngzm339/hugo-gallery-deploy),and [YOU](#)"
+    footertext = "Powered by [YoungZM](https://youngzm.com),[Microsoft Azure](https://portal.azure.com/),and [YOU](#)"
