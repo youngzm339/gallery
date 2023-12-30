@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on YoungZM&#39;s Gallery</title>
-    <link>https://go.youngzm.com/tags/</link>
+    <link>https://youngzm.com/gallery/tags/</link>
     <description>Recent content in Tags on YoungZM&#39;s Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright 2022@YoungZM</copyright><atom:link href="https://go.youngzm.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2022@YoungZM</copyright>
+    <atom:link href="https://youngzm.com/gallery/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
