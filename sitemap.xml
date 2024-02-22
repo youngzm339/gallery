@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./photo/2021-henan-museum/</loc>
+    <loc>/gallery/photo/2021-henan-museum/</loc>
   </url><url>
-    <loc>./photo/2021-wuhan-trip/</loc>
+    <loc>/gallery/photo/2021-wuhan-trip/</loc>
   </url><url>
-    <loc>./photo/2022-springfestival/</loc>
+    <loc>/gallery/photo/2022-springfestival/</loc>
   </url><url>
-    <loc>./categories/</loc>
+    <loc>/gallery/categories/</loc>
   </url><url>
-    <loc>./photo/</loc>
+    <loc>/gallery/photo/</loc>
   </url><url>
-    <loc>./tags/</loc>
+    <loc>/gallery/tags/</loc>
   </url><url>
-    <loc>./</loc>
+    <loc>/gallery/</loc>
   </url>
 </urlset>
