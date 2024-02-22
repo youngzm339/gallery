@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "./"
+baseurl = "/gallery/"
 DefaultContentLanguage = "en-us"
 languageCode = "en-us"
 title = "YoungZM's Gallery"
@@ -22,7 +22,7 @@ googleAnalytics = "UA-170465513-1"
     bodybgcolor = "#000000"
     bodytextcolor = "#FFFFFF"
 
-    parent_link = "/"
+    parent_link = "/gallery/"
     parent_link_text = "↩️Home"
 
     # Footer text
